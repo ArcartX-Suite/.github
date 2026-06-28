@@ -1,10 +1,7 @@
-<!-- 使用方式：在 GitHub Organization 下创建 public 仓库 `.github`，
-     将本文件放到 `profile/README.md`，然后按注释替换占位符。 -->
-
 <div align="center">
 
-<!-- Banner：建议 1200×400 左右，上传到本仓库 assets/ 或任意 public 仓库 -->
-<img src="https://raw.githubusercontent.com/YOUR_ORG/.github/main/assets/banner.png" alt="ArcartX-Suite" width="100%" />
+<img width="3676" height="348" alt="ArcartX-Suite" src="https://github.com/user-attachments/assets/694134ac-2ffa-4e74-bc9b-0ea686947650" />
+
 
 <br /><br />
 
