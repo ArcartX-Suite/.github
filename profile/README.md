@@ -1,15 +1,11 @@
 <div align="center">
-
 <img src="https://github.com/user-attachments/assets/959da519-d523-48ce-bb09-b5cad5bbc4af" alt="ArcartX-Suite" width="100%" />
-
 <br /><br />
-
 [![Docs](https://img.shields.io/badge/ArcartX--Suite_Wiki-文档-6366f1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://arcartx-suite.github.io/ArcartXSuite-Wiki/)
 [![Cloud](https://img.shields.io/badge/AXS_Cloud-云端平台-0ea5e9?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cloud.021209.xyz)
 [![ArcartX Wiki](https://img.shields.io/badge/ArcartX_Wiki-官方文档-f97316?style=for-the-badge&logo=bookstack&logoColor=white)](https://wiki.arcartx.com/docs)
 [![Forum](https://img.shields.io/badge/ArcartX-论坛-8b5cf6?style=for-the-badge&logo=discourse&logoColor=white)](https://arcartx.com)
 [![SDK](https://img.shields.io/github/v/release/ArcartX-Suite/ArcartXSuite-Core?label=axs-api&style=for-the-badge)](https://github.com/ArcartX-Suite/ArcartXSuite-Core/releases)
-
 </div>
 
 <br />
